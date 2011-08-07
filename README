@@ -1,0 +1,8 @@
+Google Maps - Custom Image Map Type Generator
+The following is a tool I developed to make generating custom ImageMapType Google Map's easy for all. It was inspired by a blog post I read from Mike Gleason where he shared his C#/.NET cmd line program that generated the tiles needed to create a custom Google Map. It was cool but I couldn't help myself take it online and make a web app out of the idea.
+Once you've got the high resolution PNG image you'd like to use as a Google Map:
+Select the appropriate zoom level. (it will depend on the resolution image you have)
+Give it a name.
+Upload the image from your computer.
+Sit back and watch the magic..
+Download your newly created tiles & html document that contains the html & js code you need to make use of a custom ImageType map.
